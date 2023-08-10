@@ -1,0 +1,6 @@
+{
+    "Parameters" : {
+      "Description" : "wolfgang.unger",
+      "ReadOnlyUsersArns" : "arn:aws:iam::039735417706:user/wolfgang.unger@sccbrasil.com"
+    }
+}
